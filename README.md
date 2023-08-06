@@ -6,10 +6,11 @@ TextUtils is a simple React application that allows you to perform various text 
 
 
 ## Features
-
 - Convert text to uppercase
 - Convert text to lowercase
 - Remove extra spaces from text
 - Clear the text field
+
+## Javascript/react
 
 
